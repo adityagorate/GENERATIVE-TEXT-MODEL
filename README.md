@@ -70,7 +70,7 @@ Generative_Text_Model/
 
 pip install -r requirements.txt
 
-           Or 
+Or 
 
 install manually:
 
