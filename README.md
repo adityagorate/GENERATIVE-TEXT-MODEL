@@ -15,6 +15,7 @@
 ---
 
 📖 Description
+
 This project demonstrates a Generative AI Text Model that generates
 coherent and meaningful paragraphs based on user-provided prompts or topics.
 
@@ -69,7 +70,7 @@ Generative_Text_Model/
 
 pip install -r requirements.txt
 
-Or 
+           Or 
 
 install manually:
 
