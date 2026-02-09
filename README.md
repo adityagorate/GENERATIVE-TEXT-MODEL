@@ -96,6 +96,8 @@ python src/text_generator.py
 
 🧪 Sample Output
 
+<img width="1127" height="308" alt="Image" src="https://github.com/user-attachments/assets/d9b177cc-02ec-4d77-904b-54fcacab7eb7" />
+
 ---
 
 ✨ Features
